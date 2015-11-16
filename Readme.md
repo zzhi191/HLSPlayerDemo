@@ -13,3 +13,5 @@ npm install http-server -g
 npm start
 ```
 
+> 详细介绍,见博文
+http://yijiebuyi.com/blog/0317c1ba0d996547953c4f35060de425.html
