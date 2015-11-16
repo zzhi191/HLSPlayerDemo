@@ -1,0 +1,11 @@
+{
+  "name": "HLSPlayerDemo",
+  "description": "HLSPlayerDemo",
+  "version": "0.1.0",
+  "devDependencies": {},
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "http-server -a 127.0.0.1 -p 7070"
+  }
+}
